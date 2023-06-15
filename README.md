@@ -1,5 +1,8 @@
 # Autonomous-Robotic-harvester-Prototype-Garden-Bot-
   Mechanics of Robotic Manipulators Graduate Research Project. This report introduces a new type of robot prototype (Garden-Bot) that autonomously  harvests red peppers in protected environments.
+  
+  ![image](https://github.com/carlos-navarro-naranjo-backup-account/Autonomous-Robotic-harvester-Prototype-Garden-Bot-/assets/134238682/a99dc374-795e-4582-af9e-066554bb2419)
+
 
 # Problem Statement & Goal:
   This report introduces a new type of robot prototype (Garden-Bot) that autonomously 
@@ -17,6 +20,9 @@ arm to its target. Finally, grasping and cutting operations take place. The cost
 Garden-bot is predicted to go to about $28,900 and it is estimated to take about 5 months
 for a group of engineers to build it. A set of performance metrics are proposed in this 
 paper to test the true performance of this prototype.
+
+![image](https://github.com/carlos-navarro-naranjo-backup-account/Autonomous-Robotic-harvester-Prototype-Garden-Bot-/assets/134238682/691febd1-734e-4642-8b22-c81901e61d74)
+
 
 # Concepts learned while working in this project:
 
